@@ -1,1 +1,1 @@
-# PokéKeys Public Resources
+# PokéKeys Localization
