@@ -1,80 +1,80 @@
 // Attacco
-"appraisal_attack" = "Attacco";
+"appraisal_attack" = "Att";
 
 // Difesa
-"appraisal_defense" = "Difesa";
+"appraisal_defense" = "Dif";
 
 // Credo che le sue statistiche non siano il massimo, ma possono andare.
-"appraisal_instinct_best0" = "Credo che le sue statistiche non siano il massimo, ma possono andare.";
+"appraisal_instinct_best0" = "Non sono il massimo";
 
 // Che statistiche forti! Incredibile!
-"appraisal_instinct_best13" = "Che statistiche forti! Incredibile!";
+"appraisal_instinct_best13" = "Forti";
 
 // Le sue statistiche sono senza dubbio le migliori che abbia mai visto!
-"appraisal_instinct_best15" = "Le sue statistiche sono senza dubbio le migliori che abbia mai visto!";
+"appraisal_instinct_best15" = "Migliori";
 
 // C’è certamente qualcosa di valido nelle sue statistiche.
-"appraisal_instinct_best8" = "C’è certamente qualcosa di valido nelle sue statistiche.";
+"appraisal_instinct_best8" = "Qualcosa di valido";
 
 // ...potrebbe migliorare nelle lotte.
-"appraisal_instinct_overall0" = "...potrebbe migliorare nelle lotte.";
+"appraisal_instinct_overall0" = "Potrebbe migliorare";
 
 // ...non è malaccio.
-"appraisal_instinct_overall51" = "...non è malaccio.";
+"appraisal_instinct_overall51" = "Malaccio";
 
 // ...è molto forte!
-"appraisal_instinct_overall66" = "...è molto forte!";
+"appraisal_instinct_overall66" = "Molto forte";
 
 // ...sembra potercela fare contro i migliori!
-"appraisal_instinct_overall82" = "...sembra potercela fare contro i migliori!";
+"appraisal_instinct_overall82" = "Può farcela";
 
 // Credo che le sue statistiche non siano fuori dell’ordinario.
-"appraisal_mystic_best0" = "Credo che le sue statistiche non siano fuori dell’ordinario.";
+"appraisal_mystic_best0" = "Non fuori dell’ordinario";
 
 // Devo dire che le sue statistiche sono eccellenti.
-"appraisal_mystic_best13" = "Devo dire che le sue statistiche sono eccellenti.";
+"appraisal_mystic_best13" = "Eccellenti";
 
 // Delle statistiche così non si sono mai viste. Incredibile.
-"appraisal_mystic_best15" = "Delle statistiche così non si sono mai viste. Incredibile.";
+"appraisal_mystic_best15" = "Incredibile";
 
 // La sue statistiche sono piuttosto buone.
-"appraisal_mystic_best8" = "La sue statistiche sono piuttosto buone.";
+"appraisal_mystic_best8" = "Buone";
 
 // ...non avrà grande successo nelle lotte.
-"appraisal_mystic_overall0" = "...non avrà grande successo nelle lotte.";
+"appraisal_mystic_overall0" = "Non avrà successo";
 
 // ...è sopra la media.
-"appraisal_mystic_overall51" = "...è sopra la media.";
+"appraisal_mystic_overall51" = "Sopra la media";
 
 // ...ha attirato la mia attenzione.
-"appraisal_mystic_overall66" = "...ha attirato la mia attenzione.";
+"appraisal_mystic_overall66" = "Attirato l'attenzione";
 
 // ...è una meraviglia assoluta. Che esemplare unico!
-"appraisal_mystic_overall82" = "...è una meraviglia assoluta. Che esemplare unico!";
+"appraisal_mystic_overall82" = "Meraviglia assoluta";
 
 // PS
 "appraisal_stamina" = "PS";
 
 // Delle statistiche del genere non gli saranno di grande aiuto nella lotta.
-"appraisal_valor_best0" = "Delle statistiche del genere non gli saranno di grande aiuto nella lotta.";
+"appraisal_valor_best0" = "Non grande aiuto";
 
 // Ha delle statistiche eccellenti. Forte!
-"appraisal_valor_best13" = "Ha delle statistiche eccellenti. Forte!";
+"appraisal_valor_best13" = "Eccellenti";
 
 // Che statistiche sbalorditive. Non riesco a credere ai miei occhi!
-"appraisal_valor_best15" = "Che statistiche sbalorditive. Non riesco a credere ai miei occhi!";
+"appraisal_valor_best15" = "Sbalorditive";
 
 // Delle statistiche del genere dovrebbero bastare nelle lotte.
-"appraisal_valor_best8" = "Delle statistiche del genere dovrebbero bastare nelle lotte.";
+"appraisal_valor_best8" = "Dovrebbero bastare";
 
 // ...potrebbe non essere forte nella lotta, ma mi piace lo stesso!
-"appraisal_valor_overall0" = "...potrebbe non essere forte nella lotta, ma mi piace lo stesso!";
+"appraisal_valor_overall0" = "Non è forte";
 
 // ...non è niente male.
-"appraisal_valor_overall51" = "...non è niente male.";
+"appraisal_valor_overall51" = "Non è niente male";
 
 // ...è molto forte. Devi esserne orgoglioso!
-"appraisal_valor_overall66" = "...è molto forte. Devi esserne orgoglioso!";
+"appraisal_valor_overall66" = "Molto forte";
 
 // ...è semplicemente stupefacente. Non ha rivali!
-"appraisal_valor_overall82" = "...è semplicemente stupefacente. Non ha rivali!";
+"appraisal_valor_overall82" = "Semplicemente stupefacente";
