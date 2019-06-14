@@ -1,0 +1,80 @@
+// Attack
+"appraisal_attack" = "こうげき"
+
+// Defense
+"appraisal_defense" = "ぼうぎょ"
+
+// Its stats are all right, but kinda basic, as far as I can see.
+"appraisal_instinct_best0" = "まあまあ、といったところかな！"
+
+// Its stats are really strong! Impressive!
+"appraisal_instinct_best13" = "素晴らしいぜ！本当にな！"
+
+// Its stats are the best I've ever seen! No doubt about it!
+"appraisal_instinct_best15" = "今まで見たなかでも、最高の部類だぜ！"
+
+// It's definitely got some good stats. Definitely!
+"appraisal_instinct_best8" = "かなりの強さだぜ！オレが保証する！"
+
+// ...has room for improvement as far as battling goes.
+"appraisal_instinct_overall0" = "全体的にまずまず、といったところだな。""
+
+// ...is pretty decent!
+"appraisal_instinct_overall51" = "全体的に普通だと思うぜ。"
+
+// ...is really strong!
+"appraisal_instinct_overall66" = "全体的にとっても強いぜ！"
+
+// ...looks like it can really battle with the best of them!
+"appraisal_instinct_overall82" = "全体的にトップレベルだぜ！"
+
+// Its stats are not out of the norm, in my estimation.
+"appraisal_mystic_best0" = "この点において、まあまあと言える。"
+
+// I am certainly impressed by its stats, I must say.
+"appraisal_mystic_best13" = "この点において素晴らしい。驚いているよ。"
+
+// Its stats exceed my calculations. It's incredible!
+"appraisal_mystic_best15" = "この点において測定できないほど高い。最高だ！"
+
+// Its stats are noticeably trending to the positive.
+"appraisal_mystic_best8" = "この点において、かなりの強さと言えるだろう。"
+
+// ...is not likely to make much headway in battle.
+"appraisal_mystic_overall0" = "全体的になかなか活躍が難しそうだ。"
+
+// ...is above average.
+"appraisal_mystic_overall51" = "全体的に普通以上。"
+
+// ...has certainly caught my attention.
+"appraisal_mystic_overall66" = "全体的に目を引くものがある。"
+
+// ...is a wonder! What a breathtaking Pokémon!
+"appraisal_mystic_overall82" = "全体的に驚異的で、芸術的だ。"
+
+// HP
+"appraisal_stamina" = "HP";
+
+// Its stats don't point to greatness in battle.
+"appraisal_valor_best0" = "ここに注目すると、まあまあの強さね。"
+
+// It's got excellent stats! How exciting!
+"appraisal_valor_best13" = "ここに注目すると、素晴らしいわ！わくわくする！"
+
+// I'm blown away by its stats. WOW!
+"appraisal_valor_best15" = "ここに注目すると、最高ね！胸が熱くなる！"
+
+// Its stats indicate that in battle, it'll get the job done.
+"appraisal_valor_best8" = "ここに注目すると、かなりの強さね。バトルで活躍してくれそう！"
+
+// ...may not be great in battle, but I still like it!
+"appraisal_valor_overall0" = "きみの {0} は、全体的にバトル向きではないけど、わたしは好きよ。"
+
+// ...is a decent Pokémon.
+"appraisal_valor_overall51" = "全体的に普通の強さだと思うわ！"
+
+// ...is a strong Pokémon. You should be proud!
+"appraisal_valor_overall66" = "全体的にとても強い。自慢できるわね！"
+
+// ...simply amazes me. It can accomplish anything!
+"appraisal_valor_overall82" = "全体的に言うことなしね。とっても頼もしいわ！"
